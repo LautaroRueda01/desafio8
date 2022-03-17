@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "title": "Jabón",
+        "price": 400,
+        "description": "Jabón casero aromatizante",
+        "category": "Jabones",
+        "image": "https://yamilab.com/wp-content/uploads/2021/05/Pack-de-cinco-jabones-artesanales-300x300.jpeg",
+        "rating": {
+            "rate": 4.5,
+            "count": 10
+        }
+    },
+    {
+        "id": 2,
+        "title": "Vela",
+        "price": 500,
+        "description": "Vela aromática",
+        "category": "Velas",
+        "image": "https://nomuycaro.com/wp-content/uploads/sites/3/2021/03/aromatherapy-treatment-with-candles.jpg?resize=360,270&quality=80",
+        "rating": {
+            "rate": 4.0,
+            "count": 10
+        }
+    },
+    {
+        "id": 3,
+        "title": "Toalla",
+        "price": 600,
+        "description": "Toalla confeccionada a mano",
+        "category": "Toallas",
+        "image": "https://www.lashilanderas.com/wp-content/uploads/2017/10/2L2A4443-300x300.jpg",
+        "rating": {
+            "rate": 5.0,
+            "count": 10
+        }
+    },
+    {
+        "id": 4,
+        "title": "Sal de baño",
+        "price": 300,
+        "description": "Sal para baño",
+        "category": "Sales de baño",
+        "image": "https://i.etsystatic.com/26810212/r/il/03af25/3622661239/il_300x300.3622661239_o01d.jpg",
+        "rating": {
+            "rate": 3.5,
+            "count": 10
+        }
+    }
+]
